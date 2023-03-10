@@ -13,7 +13,7 @@ export function Footer() {
     return (
         <section
             className={clsx(
-                'section flex w-full flex-col items-start justify-center gap-10 p-10 py-12 text-secondary md:flex-row  md:justify-between',
+                'section flex w-full flex-col items-start justify-center gap-10 p-10 py-48 text-secondary md:flex-row  md:justify-between',
                 text.className
             )}>
             <Logo />
