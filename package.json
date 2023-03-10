@@ -10,7 +10,7 @@
   "dependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "clsx": "^1.2.1",
-    "eslint-config-next": "^13.2.3",
+    "eslint-config-next": "^13.2.4",
     "framer-motion": "^10.1.0",
     "next": "^13.2.1",
     "react": "^18.2.0",
